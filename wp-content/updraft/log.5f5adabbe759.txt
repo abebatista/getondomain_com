@@ -1,0 +1,162 @@
+0000.002 (0) Opened log file at time: Thu, 11 Apr 2019 04:28:07 +0000 on http://localhost:9999
+0000.006 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.11 WP: 5.1.1 PHP: 7.2.17 (apache2handler, Linux efd3e4654b2f 4.9.125-linuxkit #1 SMP Fri Sep 7 08:20:28 UTC 2018 x86_64) MySQL: 5.7.25 WPLANG: en_US Server: Apache/2.4.25 (Debian) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 7M | 2M) multisite: N openssl: OpenSSL 1.1.0j  20 Nov 2018 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.009 (0) Free space on disk containing Updraft's temporary directory: 9238.1 MB
+0000.017 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.023 (0) Semaphore (fd, wp_options) being initialised
+0000.030 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.041 (0) Set semaphore last lock (fd) time to 2019-04-11 04:28:07
+0000.046 (0) Semaphore lock (fd) complete
+0000.058 (0) Backup run: resumption=0, nonce=5f5adabbe759, file_nonce=5f5adabbe759 begun at=1554956887 (0s ago), job type=backup
+0000.066 (0) Scheduling a resumption (1) after 300 seconds (1554957187) in case this run gets aborted
+0000.093 (0) Checking if we have a zip executable available
+0000.101 (0) Creation of backups of directories: beginning
+0000.124 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.008 (0) Total entities for the zip file: 549 directories, 3086 files (0 skipped as non-modified), 47.2 MB
+0001.099 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.188 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.371 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.545 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.727 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.733 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.5 MB, 3086 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0003.768 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 600 files added (on-disk size: 2733 KB)
+0004.036 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 700 files added (on-disk size: 2733 KB)
+0004.222 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 800 files added (on-disk size: 2733 KB)
+0004.395 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 900 files added (on-disk size: 2733 KB)
+0004.568 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 1000 files added (on-disk size: 2733 KB)
+0004.577 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.6 MB, 3086 files batched, 501 (1002) added so far); re-opening (prior size: 2733 KB)
+0006.199 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 1100 files added (on-disk size: 4407.7 KB)
+0006.400 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 1200 files added (on-disk size: 4407.7 KB)
+0006.590 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 1300 files added (on-disk size: 4407.7 KB)
+0006.792 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 1400 files added (on-disk size: 4407.7 KB)
+0007.129 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 1500 files added (on-disk size: 4407.7 KB)
+0007.143 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.3 MB, 3086 files batched, 501 (1503) added so far); re-opening (prior size: 4407.7 KB)
+0009.115 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 1600 files added (on-disk size: 6721.2 KB)
+0009.315 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 1700 files added (on-disk size: 6721.2 KB)
+0009.496 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 1800 files added (on-disk size: 6721.2 KB)
+0009.672 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 1900 files added (on-disk size: 6721.2 KB)
+0009.861 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 2000 files added (on-disk size: 6721.2 KB)
+0009.873 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (10.1 MB, 3086 files batched, 501 (2004) added so far); re-opening (prior size: 6721.2 KB)
+0012.102 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 2100 files added (on-disk size: 11146 KB)
+0012.307 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 2200 files added (on-disk size: 11146 KB)
+0012.505 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 2300 files added (on-disk size: 11146 KB)
+0012.748 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 2400 files added (on-disk size: 11146 KB)
+0012.944 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 2500 files added (on-disk size: 11146 KB)
+0012.960 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (14.7 MB, 3086 files batched, 501 (2505) added so far); re-opening (prior size: 11146 KB)
+0015.822 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 2600 files added (on-disk size: 15126.2 KB)
+0016.020 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 2700 files added (on-disk size: 15126.2 KB)
+0016.208 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 2800 files added (on-disk size: 15126.2 KB)
+0016.396 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 2900 files added (on-disk size: 15126.2 KB)
+0016.584 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip.tmp: 3000 files added (on-disk size: 15126.2 KB)
+0016.600 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.6 MB, 3086 files batched, 501 (3006) added so far); re-opening (prior size: 15126.2 KB)
+0019.066 (0) Created plugins zip (0) - 16138.6 KB in 18.9 s (852.6 KB/s) (sha1: 5d0d3b175ccbdacdfbf754b21bb35ccbf5a8814e, sha256: 6f1ba6095a33d94e883968957e34e9f573ab3ae6a1dfee245b76e9d6ec5cc62c)
+0019.093 (0) Beginning creation of dump of themes (split every: 400 MB)
+0019.348 (0) Total entities for the zip file: 106 directories, 623 files (0 skipped as non-modified), 14.8 MB
+0019.441 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0019.533 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0019.626 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0019.728 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0019.850 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0019.860 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (12.3 MB, 623 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0023.155 (0) Zip: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-themes.zip.tmp: 600 files added (on-disk size: 4259.7 KB)
+0023.584 (0) Created themes zip (0) - 5891.9 KB in 4.5 s (1316.3 KB/s) (sha1: fc492e3b547fb407d6d655ea69777889365c4719, sha256: 5c661e021bee405b77a008d57056e929c614ff9e7838eaf5c427896bbcab259d)
+0023.606 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0023.609 (0) Looking for candidates to backup in: /var/www/html/wp-content/uploads
+0023.612 (0) finding files: 2019: adding to list (1)
+0023.618 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0023.640 (0) Total entities for the zip file: 2 directories, 38 files (0 skipped as non-modified), 3.2 MB
+0023.857 (0) Created uploads zip (0) - 3272.5 KB in 0.2 s (14323.1 KB/s) (sha1: dc3bd4f7029d96507528f8017e1d61dafcf1fee0, sha256: 9da9bbc4fe26750ecdc23b5399c849d7ceac7ec46e597ed66ab1203f065e201b)
+0023.873 (0) Beginning backup of other directories found in the content directory (index: 0)
+0023.875 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0023.877 (0) Looking for candidates to backup in: /var/www/html/wp-content
+0023.880 (0) finding files: index.php: adding to list (1)
+0023.883 (0) finding files: plugins: skipping: this is the plugins directory
+0023.884 (0) finding files: themes: skipping: this is the themes directory
+0023.886 (0) finding files: updraft: skipping: this is the updraft directory
+0023.888 (0) finding files: upgrade: skipping: excluded by options
+0023.890 (0) finding files: uploads: skipping: this is the uploads directory
+0023.907 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0023.952 (0) Created others zip (0) - 0.1 KB in 0.1 s (2.7 KB/s) (sha1: c719f796e307458ea48024651e6f065de897fcaf, sha256: 029b55fee3133668f516597b88bce547b0c88006dd46bd08dfabdfe4e46e9643)
+0023.980 (0) Saving backup status to database (elements: 8)
+0023.989 (0) Beginning creation of database dump (WordPress DB)
+0024.081 (0) Table wp_options: Total expected rows (approximate): 200
+0024.117 (0) Table wp_options: Total rows added: 200 in 0.03 seconds
+0024.130 (0) Table wp_options: finishing file (backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-db-table-wp_options.table.gz - 156.4 KB)
+0024.145 (0) Table wp_users: Total expected rows (approximate): 1
+0024.148 (0) Table wp_users: Total rows added: 1 in 0.00 seconds
+0024.154 (0) Table wp_users: finishing file (backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-db-table-wp_users.table.gz - 0.6 KB)
+0024.178 (0) Table wp_usermeta: Total expected rows (approximate): 23
+0024.185 (0) Table wp_usermeta: Total rows added: 23 in 0.00 seconds
+0024.200 (0) Table wp_usermeta: finishing file (backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-db-table-wp_usermeta.table.gz - 1.1 KB)
+0024.227 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0024.244 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0024.256 (0) Table wp_commentmeta: finishing file (backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0024.281 (0) Table wp_comments: Total expected rows (approximate): 1
+0024.287 (0) Table wp_comments: Total rows added: 1 in 0.00 seconds
+0024.297 (0) Table wp_comments: finishing file (backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-db-table-wp_comments.table.gz - 0.7 KB)
+0024.337 (0) Table wp_links: Total expected rows (approximate): 0
+0024.343 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0024.354 (0) Table wp_links: finishing file (backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-db-table-wp_links.table.gz - 0.4 KB)
+0024.378 (0) Table wp_postmeta: Total expected rows (approximate): 128
+0024.383 (0) Table wp_postmeta: Total rows added: 128 in 0.00 seconds
+0024.393 (0) Table wp_postmeta: finishing file (backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-db-table-wp_postmeta.table.gz - 3 KB)
+0024.415 (0) Table wp_posts: Total expected rows (approximate): 39
+0024.424 (0) Table wp_posts: Total rows added: 39 in 0.01 seconds
+0024.432 (0) Table wp_posts: finishing file (backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-db-table-wp_posts.table.gz - 30.8 KB)
+0024.445 (0) Table wp_term_relationships: Total expected rows (approximate): 8
+0024.448 (0) Table wp_term_relationships: Total rows added: 8 in 0.00 seconds
+0024.453 (0) Table wp_term_relationships: finishing file (backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0024.466 (0) Table wp_term_taxonomy: Total expected rows (approximate): 3
+0024.469 (0) Table wp_term_taxonomy: Total rows added: 3 in 0.00 seconds
+0024.476 (0) Table wp_term_taxonomy: finishing file (backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-db-table-wp_term_taxonomy.table.gz - 0.4 KB)
+0024.488 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0024.491 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0024.500 (0) Table wp_termmeta: finishing file (backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-db-table-wp_termmeta.table.gz - 0.4 KB)
+0024.519 (0) Table wp_terms: Total expected rows (approximate): 3
+0024.525 (0) Table wp_terms: Total rows added: 3 in 0.00 seconds
+0024.532 (0) Table wp_terms: finishing file (backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-db-table-wp_terms.table.gz - 0.4 KB)
+0024.551 (0) backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-db-table-wp_options.table.gz (1/12): adding to final database dump
+0024.580 (0) backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-db-table-wp_users.table.gz (2/12): adding to final database dump
+0024.587 (0) backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-db-table-wp_usermeta.table.gz (3/12): adding to final database dump
+0024.591 (0) backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-db-table-wp_commentmeta.table.gz (4/12): adding to final database dump
+0024.598 (0) backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-db-table-wp_comments.table.gz (5/12): adding to final database dump
+0024.601 (0) backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-db-table-wp_links.table.gz (6/12): adding to final database dump
+0024.605 (0) backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-db-table-wp_postmeta.table.gz (7/12): adding to final database dump
+0024.608 (0) backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-db-table-wp_posts.table.gz (8/12): adding to final database dump
+0024.617 (0) backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-db-table-wp_term_relationships.table.gz (9/12): adding to final database dump
+0024.621 (0) backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-db-table-wp_term_taxonomy.table.gz (10/12): adding to final database dump
+0024.629 (0) backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-db-table-wp_termmeta.table.gz (11/12): adding to final database dump
+0024.634 (0) backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-db-table-wp_terms.table.gz (12/12): adding to final database dump
+0024.638 (0) backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-db.gz: finished writing out complete database file (184 KB)
+0024.689 (0) Total database tables backed up: 12 (backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-db.gz, size: 196381, sha256)
+0024.700 (0) backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0024.705 (0) backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0024.707 (0) backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0024.710 (0) backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-others.zip: others: This file has not yet been successfully uploaded: will queue
+0024.725 (0) backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-db.gz: db: This file has not yet been successfully uploaded: will queue
+0024.730 (0) Saving backup history. Total backup size: 24.9 MB
+0024.739 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0024.750 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0024.755 (0) No remote despatch: user chose no remote backup service
+0024.758 (0) Recording as successfully uploaded: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-plugins.zip
+0024.766 (0) Recording as successfully uploaded: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-themes.zip
+0024.772 (0) Recording as successfully uploaded: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-uploads.zip
+0024.777 (0) Recording as successfully uploaded: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-others.zip
+0024.780 (0) Recording as successfully uploaded: backup_2019-04-11-0028_Get_On_Domain_LLC_5f5adabbe759-db.gz
+0024.788 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0024.790 (0) Number of backup sets in history: 1; groups (db): 1
+0024.793 (0) Examining (for databases) backup set with group_id=0, nonce=5f5adabbe759, datestamp=1554956887 (Apr 11 2019 04:28:07)
+0024.795 (0) This backup set is the backup set just made, so will not be deleted.
+0024.795 (0) Number of backup sets in history: 1; groups (files): 1
+0024.797 (0) Examining (for files) backup set with nonce=5f5adabbe759, datestamp=1554956887 (Apr 11 2019 04:28:07)
+0024.797 (0) This backup set is the backup set just made, so will not be deleted.
+0024.799 (0) This backup set is the backup set just made, so will not be deleted.
+0024.799 (0) This backup set is the backup set just made, so will not be deleted.
+0024.799 (0) This backup set is the backup set just made, so will not be deleted.
+0024.799 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0024.802 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0024.821 (0) Resume backup (5f5adabbe759, 0): finish run
+0024.828 (0) Decremented the semaphore (fd) by 1
+0024.831 (0) Semaphore (fd) unlocked
+0024.833 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0024.840 (0) No email will/can be sent - the user has not configured an email address.
+0024.845 (0) The backup apparently succeeded and is now complete
