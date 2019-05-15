@@ -160,3 +160,11 @@
 0024.833 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
 0024.840 (0) No email will/can be sent - the user has not configured an email address.
 0024.845 (0) The backup apparently succeeded and is now complete
+0000.000 (1) Opened log file at time: Wed, 15 May 2019 00:50:34 +0000 on http://getondomain.com
+0000.115 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.11 WP: 5.1.1 PHP: 7.2.14 (cgi-fcgi, Windows NT DESKTOP-O42A4HC 10.0 build 17134 (Windows 10) AMD64) MySQL: 5.7.24 WPLANG: en_US Server: Microsoft-IIS/10.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 42.5M | 44M) multisite: N openssl: OpenSSL 1.1.1a  20 Nov 2018 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.159 (1) Free space on disk containing Updraft's temporary directory: 783357.6 MB
+0000.201 (1) This backup task (5f5adabbe759) is either complete or began over 2 days ago: ending (1557881434.8157, ) (existing jobdata keys: )
+0000.000 (1) Opened log file at time: Wed, 15 May 2019 01:00:36 +0000 on https://getondomain.com
+0000.077 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.11 WP: 5.1.1 PHP: 7.2.14 (cgi-fcgi, Windows NT DESKTOP-O42A4HC 10.0 build 17134 (Windows 10) AMD64) MySQL: 5.7.24 WPLANG: en_US Server: Microsoft-IIS/10.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 42.5M | 16M) multisite: N openssl: OpenSSL 1.1.1a  20 Nov 2018 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.117 (1) Free space on disk containing Updraft's temporary directory: 782326.3 MB
+0000.168 (1) This backup task (5f5adabbe759) is either complete or began over 2 days ago: ending (1557882036.4536, ) (existing jobdata keys: )
