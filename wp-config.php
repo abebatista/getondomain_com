@@ -23,13 +23,13 @@
 define( 'DB_NAME', 'getondomain_com');
 
 /** MySQL database username */
-define( 'DB_USER', 'admin_getondomain_com@suenacuba');
+define( 'DB_USER', 'admin_getondomain_com');
 
 /** MySQL database password */
 define( 'DB_PASSWORD', '*Adm1n_G3t0nD0m41n_C0m*');
 
 /** MySQL hostname */
-define( 'DB_HOST', 'suenacuba.mysql.database.azure.com');
+define( 'DB_HOST', '173.249.58.200');
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8');
