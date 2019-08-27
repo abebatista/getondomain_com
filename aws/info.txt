@@ -1,0 +1,54 @@
+
+ * Keen to learn Istio? It's included in the single-package MicroK8s.
+
+     https://snapcraft.io/microk8s
+
+ * Canonical Livepatch is available for installation.
+   - Reduce system reboots and improve kernel security. Activate at:
+     https://ubuntu.com/livepatch
+
+0 packages can be updated.
+0 updates are security updates.
+
+
+
+********************************************************************************
+
+Welcome to LiteSpeed One-Click CyberPanel Server.
+To keep this server secure, the firewalld is enabled.
+CyberPanel One-Click Quickstart guide:
+* https://docs.litespeedtech.com/cloud/cyberpanel
+
+In a web browser, you can view:
+* CyberPanel: https://3.17.28.28:8090
+* phpMyAdmin: https://3.17.28.28:8090/phpmyadmin
+* Rainloop:   https://3.17.28.28:8090/rainloop
+
+On the server:
+* You can get the CyberPanel admin password with the following command:
+  sudo cat /home/ubuntu/.litespeed_password
+* You can get the Mysql cyberpanel user password with the following command:
+  sudo cat /home/ubuntu/.db_password
+
+System Status:
+  Load : 0.00, 0.01, 0.08
+  CPU  : 4.36595%
+  RAM  : 259/983MB (26.35%)
+  Disk : 3/7GB (46%)
+
+Please upgrade CyberPanel version from 1.8.8 to 1.8.9.,
+https://docs.litespeedtech.com/cloud/cyberpanel/#how-do-i-upgrade-cyberpanel
+********************************************************************************
+
+Last login: Wed Aug  7 20:49:32 2019 from 47.22.54.182
+Your system is up to date
+ubuntu@ip-172-31-43-219:~$ sudo cat /home/ubuntu/.litespeed_password
+admin_pass=oeRlazHGVncT96vD
+ubuntu@ip-172-31-43-219:~$
+
+
+-- demowebsite.getondomain.com
+user: admin_wpgetondomain
+pass: *wpgetondomain*
+url : https://demowebsite.getondomain.com/wp-admin/index.php
+
